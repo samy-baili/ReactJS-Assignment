@@ -1,4 +1,4 @@
-# ReactS-Assignment
+# ReactJS-Assignment
 Developing a simple Website with React.js
 
 Details:
